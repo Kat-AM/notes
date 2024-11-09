@@ -1,0 +1,54 @@
+[
+    {
+        "career_id": 1,
+        "career_name": "ARQUITECTURA"
+    },
+    {
+        "career_id": 2,
+        "career_name": "INGENIERÍA EN INFOTECNOLOGÍA"
+    },
+    {
+        "career_id": 3,
+        "career_name": "DISEÑO DE INTERIORES"
+    },
+    {
+        "career_id": 4,
+        "career_name": "INGENIERÍA INDUSTRIAL"
+    },
+    {
+        "career_id": 5,
+        "career_name": "INGENIERIA CIVIL"
+    },
+    {
+        "career_id": 6,
+        "career_name": "RELACIONES INTERNACIONALES Y DIPLOMACIA"
+    },
+    {
+        "career_id": 7,
+        "career_name": "PSICOLOGÍA"
+    },
+    {
+        "career_id": 8,
+        "career_name": "PERIODISMO"
+    },
+    {
+        "career_id": 9,
+        "career_name": "MERCADOTECNIA Y PUBLICIDAD"
+    },
+    {
+        "career_id": 10,
+        "career_name": "DISEÑO GRÁFICO"
+    },
+    {
+        "career_id": 11,
+        "career_name": "ADMINISTRACIÓN DE EMPRESAS"
+    },
+    {
+        "career_id": 12,
+        "career_name": "AUDITORIA Y FINANZAS"
+    },
+    {
+        "career_id": 13,
+        "career_name": "DERECHO"
+    }
+]

@@ -1,0 +1,48 @@
+[
+  {
+      "id": 5,
+      "name": "2024",
+      "title": "2024",
+      "children": [
+          {
+              "id": 1,
+              "name": "I Periodo",
+              "title": "I Periodo",
+              "children": [
+                  {
+                      "id": 1,
+                      "title": "I Parcial"
+                  },
+                  {
+                      "id": 2,
+                      "title": "II Parcial"
+                  },
+                  {
+                      "id": 3,
+                      "title": "III Parcial"
+                  }
+              ]
+          },
+          {
+              "id": 2,
+              "name": "II Periodo",
+              "title": "II Periodo",
+              "children": [
+                  {
+                      "id": 4,
+                      "title": "I Parcial"
+                  },
+                  {
+                      "id": 5,
+                      "title": "II Parcial"
+                  },
+                  {
+                      "id": 6,
+                      "title": "III Parcial"
+                  }
+              ]
+          }
+      ]
+  }
+]
+  

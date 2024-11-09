@@ -1,0 +1,215 @@
+[
+  {
+    "idCatedratico": 1,
+    "nombre": "Carlos Pérez",
+    "clases": [
+      { "code": "ITT22", "class": "Calculo II", "section": "A-C", "status": true, "date": "YY-MM-DD"},
+      { "code": "ITT33", "class": "Algebra", "section": "A-C", "status": true,"date": "YY-MM-DD" },
+      { "code": "ITT44", "class": "Análisis Numérico", "section": "A-C", "status": false,"date": "YY-MM-DD" }
+    ]
+  },
+  {
+    "idCatedratico": 2,
+    "nombre": "Ana González",
+    "clases": [
+      { "code": "PHY21", "class": "Física I", "section": "B-D", "status": true ,"date": "YY-MM-DD"},
+      { "code": "PHY22", "class": "Física II", "section": "A-C", "status": true,"date": "YY-MM-DD" }
+    ]
+  },
+
+  {
+    "idCatedratico": 3,
+    "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+    "clases": [
+        {
+            "code": "ARQ1034",
+            "class": "DIBUJO LIBRE",
+            "section": "A-C",
+            "grade_status": true
+        },
+        {
+          "code": "ARQ2014",
+          "class": "EXPRESIÓN PLASTICA",
+          "section": "A-C",
+          "grade_status": true
+          
+      }
+    ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+},
+{
+  "idCatedratico": 3,
+  "nombre": "HECTOR OMAR SABILLON RODRÍGUEZ",
+  "clases": [
+      {
+          "code": "ARQ1034",
+          "class": "DIBUJO LIBRE",
+          "section": "A-C",
+          "grade_status": true
+      },
+      {
+        "code": "ARQ2014",
+        "class": "EXPRESIÓN PLASTICA",
+        "section": "A-C",
+        "grade_status": true
+        
+    }
+  ]
+}
+
+
+]
+
+
+
