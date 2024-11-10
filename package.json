@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
+    "axios": "^1.7.7",
     "core-js": "^3.37.1",
     "roboto-fontface": "*",
     "vue": "^3.4.31",
-    "vuetify": "^3.6.11"
+    "vuetify": "^3.7.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
@@ -30,5 +31,10 @@
     "vite": "^5.3.3",
     "vite-plugin-vuetify": "^2.0.3",
     "vue-router": "^4.4.0"
-  }
+  },
+  "description": "This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.",
+  "main": ".eslintrc.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

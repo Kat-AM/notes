@@ -14,7 +14,13 @@
             :items="catedratico.clases"
             :sortable="true"
             hide-default-footer
-          ></v-data-table>
+          >
+          <template v-slot:item.grade_status="{ value }">
+          <v-chip :color="getColor(value)"> {{ value }} </v-chip>
+          </template>
+
+
+          </v-data-table>
         </v-expansion-panel-text>
       </v-expansion-panel>
     </v-expansion-panels>
@@ -22,6 +28,8 @@
 </template>
 
 <script>
+import { GradeManagmentService } from '@/services/data.service.js';
+ 
 export default {
   props: {
     searchQuery: {
@@ -56,11 +64,25 @@ export default {
   mounted() {
     this.loadData();
   },
+
   methods: {
+    getColor(grade_status) {
+        console.log("Grade status: ", grade_status);
+        if (grade_status === true) return 'green'
+        else return 'gray'
+    },
+
     async loadData() {
       try {
-        const response = await fetch('/Listitem.json');
-        this.catedraticos = await response.json();
+        //const response = await fetch('/Listitem.json');
+        const parcial_id = '1';
+        const response = await GradeManagmentService.getTeacherList(parcial_id);
+        if (response.ok){
+          console.log("The response is good");
+        }
+        // this.catedraticos = response.json();
+        this.catedraticos = response.data;
+
       } catch (error) {
         console.error('Error loading JSON data:', error);
       }
